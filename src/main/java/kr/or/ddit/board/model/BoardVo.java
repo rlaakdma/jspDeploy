@@ -3,7 +3,7 @@ package kr.or.ddit.board.model;
 import java.util.Date;
 
 public class BoardVo {
-	private String title; 	// 글 제목
+	private String title; 	// 글 제목 //d!!!
 	private String content; // 글 내용
 	private String userId;  // 글 작성자 아이디
 	private String alias;   // 작성자 별칭
